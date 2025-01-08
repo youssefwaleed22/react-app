@@ -18,7 +18,7 @@ export default function Portfolio() {
                     <div className='row g-5 mt-1 pb-4'>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/poert1.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/poert1.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
@@ -26,7 +26,7 @@ export default function Portfolio() {
                         </div>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/port2.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/port2.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
@@ -34,7 +34,7 @@ export default function Portfolio() {
                         </div>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/port3.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/port3.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
@@ -42,7 +42,7 @@ export default function Portfolio() {
                         </div>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/poert1.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/poert1.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
@@ -50,7 +50,7 @@ export default function Portfolio() {
                         </div>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/port2.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/port2.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
@@ -58,7 +58,7 @@ export default function Portfolio() {
                         </div>
                         <div className=' col-lg-4 col-md-4 col-sm-12'>
                             <div className='inner position-relative'>
-                                <img className='w-100 rounded-2 visibleimage ' src="../../public/port3.png" alt="" />
+                                <img className='w-100 rounded-2 visibleimage ' src="../../../public/port3.png" alt="" />
                                 <div className=' hide position-absolute top-0 start-0 end-0 bottom-0 bggreentrans d-flex justify-content-center align-items-center  '>
                                     <i className=' fa-solid fa-plus text-white fa-8x '></i>
                                 </div>
